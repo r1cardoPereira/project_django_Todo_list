@@ -58,11 +58,11 @@ Para usar o projeto, siga as instruções abaixo:
 
 1. Acesse o projeto em seu navegador em `http://localhost:8000/`.
 
-2. Crie uma nova tarefa clicando no botão "Nova Tarefa" na página inicial.
+2. Crie uma nova tarefa clicando no botão "Crie uma Tarefa" na página inicial.
 
 3. Preencha o formulário de criação de tarefas e clique em "Salvar" para criar a tarefa.
 
-4. Visualize a lista de tarefas clicando no botão "Lista de Tarefas" na página inicial.
+4. Visualize a lista de tarefas clicando no botão "Veja suas Tarefas" na página inicial.
 
 5. Atualize uma tarefa clicando no botão "Editar" ao lado da tarefa desejada na lista de tarefas.
 
