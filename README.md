@@ -71,7 +71,7 @@ Para usar o projeto, siga as instruções abaixo:
 7. Marque uma tarefa como concluída clicando no botão "Concluir" ao lado da tarefa desejada na lista de tarefas.
 
 ## Rotas
-
+```
 O projeto define as seguintes rotas:
 
 - A rota "" (vazia) é mapeada para a view "home".
@@ -80,6 +80,8 @@ O projeto define as seguintes rotas:
 - A rota "update/<int:pk>" é mapeada para a view "TodoUpdateView", onde "<int:pk>" é um parâmetro que representa o ID da tarefa a ser atualizada.
 - A rota "delete/<int:pk>" é mapeada para a view "TodoDeleteView", onde "<int:pk>" é um parâmetro que representa o ID da tarefa a ser excluída.
 - A rota "finish/<int:pk>" é mapeada para a view "TodoFinishView", onde "<int:pk>" é um parâmetro que representa o ID da tarefa a ser marcada como concluída.
+
+```
 
 
 ## Funcionalidades
