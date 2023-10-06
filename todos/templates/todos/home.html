@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block page_title %}
+    Lista de Tarefas
+{% endblock page_title %}
+
+
+
+
+
+
+{% block content %}
+        
+    <h1>Bem-vindo à sua Lista de Tarefas!</h1>
+    <p>Esperamos que você aproveite a sua estadia.</p>
+    <a href="{% url 'todo_create' %}" class="btn btn-primary" type="submit">Crie uma Tarefa</a>
+    <a href="{% url 'todo_list' %}" class="btn btn-info" type="submit">Veja suas Tarefas</a>
+
+
+{% endblock content %}
+
